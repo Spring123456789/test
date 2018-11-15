@@ -46,5 +46,10 @@ Step 3、将你的SSH key添加到GitHub
 
 分支与合并
 创建分支并切换到当前分支：   git checkout -b iss53
+修改文件后  git commit -a -m "描述添加的日志"
+再回到默认的mster分支 ：  git checkout master
+使用git merge iss53 提交iss53分支 
+不再需要iss53分支后执行 git branch -d iss53  删除分支
+
 
 
