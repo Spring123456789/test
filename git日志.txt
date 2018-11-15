@@ -25,6 +25,9 @@ github常见操作和常见错误
 5   git remote add origin git@github.com:djqiang/gitdemo.git
 6   git push -u origin master 后面要求输入账户密码
 
+从远程到本地 用 git  clone  加地址
+贺别人共同开发前先pull一下
+
 
 
 生成密钥： ssh-keygen -t rsa -C "337168543@qq.com"
