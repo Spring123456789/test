@@ -44,4 +44,7 @@ Step 3、将你的SSH key添加到GitHub
 点击  Add SSH key ；
 确认通过输入操作GitHub的密码。
 
+分支与合并
+创建分支并切换到当前分支：   git checkout -b iss53
+
 
